@@ -1,0 +1,6 @@
+
+/lr2
+*.o
+*.out
+*.exe
+.vscode/
